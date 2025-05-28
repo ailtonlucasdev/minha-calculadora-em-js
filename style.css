@@ -31,3 +31,15 @@
     font-size: 25px;
     cursor: pointer;
 }
+
+#equal {
+    background-color: #5555ff;
+    color: white;
+}
+
+.button:hover {
+    background-color: #323320;
+    color: white;
+    transition: 0.5 ease-in-out;
+}
+
